@@ -6,3 +6,8 @@
    ```bash
    cd server
    
+Установите зависимости с использованием Yarn:
+
+bash
+Copy code
+yarn
