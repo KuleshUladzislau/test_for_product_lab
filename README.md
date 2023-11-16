@@ -7,8 +7,9 @@
    cd server
    yarn
    yarn watch
+    ```bash
  2. запустить `watcher` в одном терминале:
-   ```bash
+  
    yarn watch
 3. `запустить локальный север в другом терминале`:
  ```bash
