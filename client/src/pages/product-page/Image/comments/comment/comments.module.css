@@ -1,0 +1,18 @@
+.commentsContainer {
+    width: 300px;
+    position: relative;
+    word-break: break-word;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+    cursor: pointer;
+}
+
+.deleteComment{
+    position: absolute;
+    right: 0;
+    top:-20px;
+    background: transparent;
+    border: none;
+    cursor: pointer;
+    font-size: 25px;
+    rotate: 45deg;
+}
