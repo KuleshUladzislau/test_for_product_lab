@@ -7,3 +7,8 @@
    cd server
    yarn
    yarn watch
+ 2. Перейдите в папку `server` и выполните установку зависимостей:
+   ```bash
+   cd server
+   yarn
+   yarn watch
