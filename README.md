@@ -7,7 +7,7 @@
    cd server
    yarn
    yarn watch
-
+bash ```
     
  2. Запустить `watcher` в одном терминале:
 
