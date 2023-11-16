@@ -18,4 +18,8 @@ yarn watch
 
 yarn dev
 
+## Перейдите в папку client:
+
+cd client
+
 
